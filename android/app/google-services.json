@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "762586583878",
-    "project_id": "intec-social-app-c9ba8",
-    "storage_bucket": "intec-social-app-c9ba8.firebasestorage.app"
+    "project_number": "207105219101",
+    "project_id": "flutterapp-24d89",
+    "storage_bucket": "flutterapp-24d89.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:762586583878:android:b5ed2b4e70b19cb3154b47",
+        "mobilesdk_app_id": "1:207105219101:android:ca5e3f5c0fd9fa140944f4",
         "android_client_info": {
           "package_name": "com.example.intec_social_app"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAX-7kLTpYJmBXnLEuc_T53ZnT8mM3x3T8"
+          "current_key": "AIzaSyDYK2tXVvFme-ZdAy0ZH2A1c_1zrhTgJZ4"
         }
       ],
       "services": {

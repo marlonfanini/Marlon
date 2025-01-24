@@ -53,11 +53,11 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAX-7kLTpYJmBXnLEuc_T53ZnT8mM3x3T8',
-    appId: '1:762586583878:android:b5ed2b4e70b19cb3154b47',
-    messagingSenderId: '762586583878',
-    projectId: 'intec-social-app-c9ba8',
-    storageBucket: 'intec-social-app-c9ba8.firebasestorage.app',
+    apiKey: 'AIzaSyDYK2tXVvFme-ZdAy0ZH2A1c_1zrhTgJZ4',
+    appId: '1:207105219101:android:ca5e3f5c0fd9fa140944f4',
+    messagingSenderId: '207105219101',
+    projectId: 'flutterapp-24d89',
+    storageBucket: 'flutterapp-24d89.firebasestorage.app',
   );
 
 }
